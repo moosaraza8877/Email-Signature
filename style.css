@@ -1,0 +1,79 @@
+*{
+	font-family: Helvetica;
+}
+.logo_div{
+	margin: 200px;
+}
+.logo{
+	width: 330px;
+}
+.name{
+	font-size: 20px;
+	color: rgb(39, 57, 133);
+	margin-top: -190px;
+	margin-left: 290px;
+	font-weight: bold;
+}
+.name span{
+	color: rgb(41, 170, 225);
+}
+.feature{
+	color: grey;
+	margin-top: -37px;
+	margin-left: 290px;
+}
+.address span{
+	color: rgb(39, 57, 133);
+	font-weight: bold;
+}
+.address{
+	margin-top: -3px;
+	margin-left: 290px;
+	color: grey;
+}
+.email span{
+	color: rgb(39, 57, 133);
+	font-weight: bold;
+}
+.email{
+	margin-top: -14px;
+	margin-left: 290px;
+	color: grey;
+}
+.short_line{
+	border: 1px solid rgb(41, 170, 225);
+	width: 200px;
+	margin-top: -10px;
+	position: relative;
+	left: -65px;
+}
+.info_div{
+	position: relative;
+	top: -3px;
+}
+.fa{
+	padding: 15px;
+	font-size: 40px;
+	width: 15px;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 50%;
+	margin-left: 5px;
+}
+.fa-facebook{
+	margin-left: 300px;
+	background: #3B5998;
+	color: white;
+}
+.fa-twitter{
+	background: #55ACEE;
+	color: white;
+}
+.fa-instagram{
+	background-color: teal;
+	color: white;
+}
+.fa-youtube{
+	background-color: red;
+	color: white;
+}
